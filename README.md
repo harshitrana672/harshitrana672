@@ -1,12 +1,10 @@
-### Hi there, I'm Harshit Rana - aka [harshitrana672][website] 👋 
+### Hi there, I'm Harshit Rana - [harshitrana672][website] 👋 
 [![Website](https://img.shields.io/website?label=harshitsak786.com&style=for-the-badge&url=https%3A%2F%2Fharshitsak786.com)](https://www.codemint.ml/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Harshit54382726?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshit54382726&screen_name=Harshit54382726)
-## I'm a Student, Electrical enginner, Developer!!
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+## Python Developer and Data Analyst !!
+- 🌱 I’m currently learning Advanced Python and Data Science  🤣
 - 👯 I’m looking to collaborate with other software developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code and playing volleyball 
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 
 <h4 align="left">Connect with me:</h4>
