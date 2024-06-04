@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshit Rana - [harshitrana672][website] 👋 
-[![Website](https://img.shields.io/website?label=harshitsak786.com&style=for-the-badge&url=https%3A%2F%2Fharshitsak786.com)](https://www.codemint.ml/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Harshit54382726?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHarshit54382726&screen_name=Harshit54382726)
+
+
 ## Python Developer and Data Analyst !!
 - 🌱 I’m currently learning Advanced Python and Data Science  🤣
 - 👯 I’m looking to collaborate with other software developer
@@ -14,9 +14,7 @@
   <a href="https://www.linkedin.com/in/thakur-harshit-codemint12/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thakur-harshit-codemint12/">
   </a>
-  <a href="https://twitter.com/Harshit54382726">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Harshit54382726">
-  </a>
+ 
  
   
   <a href="https://medium.com/@harshitrana672">
@@ -27,7 +25,7 @@
   </a>
 </p>
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 
 #### Languages and Libraries:
@@ -131,11 +129,11 @@
   <b><em>GitHub Stats:</em></b> <br/>
    
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitsak786" alt="WakaTime" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitrana672" alt="WakaTime" />
   </p>
 </div>
----
 
 
 
-[youtube]:https://www.youtube.com/channel/UC49K-ogVUX5VB6E2VMTrOQw
+
+
